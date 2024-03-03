@@ -2,6 +2,6 @@
 
 ATU
 
-Programming and scripting
+Programming and Scripting
 
 by Hugo Camacho Romero
